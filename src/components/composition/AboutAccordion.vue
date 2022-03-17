@@ -91,7 +91,21 @@ export default {
 					<hr />
 					<Text>O projeto ja conta com as informações separadas para serem enviadas para a API que irá processar a compra quando o usuário clica em "Ir para checkout".</Text>
 					<hr />
+					<Text>Os textos estão separados em um arquivo para facilitar a edição e adaptação para outras linguagens.</Text>
+					<hr />
 					<Text>Além dessas, também foi criado testes unitários para componentes utilizando o Jest, para que seja garantido a qualidade do código e experiência do usuário.</Text>
+				</div>
+			</div>
+		</div>
+		<div class="accordion-item">
+			<div type="h2" class="accordion-header">
+				<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#repo">
+					<Text>Repositório do projeto</Text>
+				</button>
+			</div>
+			<div id="repo" class="accordion-collapse collapse" data-bs-parent="#accordionAbout">
+				<div class="accordion-body">
+					<Text>O repositório no Github do projeto se encontra aqui: <a href="https://github.com/vinicenter/bempaggo-compras">https://github.com/vinicenter/bempaggo-compras</a></Text>
 				</div>
 			</div>
 		</div>

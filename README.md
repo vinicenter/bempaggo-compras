@@ -1,6 +1,5 @@
 # bempaggo-compras
 
-
 ### Veja o projeto ao vivo por meio deste link:
 https://vini.center/bempaggo-compras
 
@@ -12,9 +11,11 @@ Este projeto foi desenvolvido para o Desafio de Desenvolvimento FrontEnd da BemP
 
 ### Tecnologias utilizadas no projeto
 
-Utilizei o framework Vue.js para desenvolver boa parte do projeto, juntamente com a biblioteca Bootstrap para acelerar o desenvolvimento.
-Para gerenciar o projeto foi usado o NPM e também para gerenciamento de versão foi usado o GIT.
-Além de também utilizar o Jest para desenvolver os testes unitários.
+* Utilizei o framework Vue.js para desenvolver boa parte do projeto.
+* Utilizei a biblioteca Bootstrap para acelerar o desenvolvimento.
+* Para gerenciar o projeto foi usado o NPM.
+* Para gerenciamento de versão foi usado o GIT.
+* Utilizei o Jest para desenvolver os testes unitários.
 
 ### Mudanças visuais feitas em relação ao projeto inicial
 
@@ -52,11 +53,14 @@ Segue abaixo um exemplo de JSON contendo dois produtos:
 ```
 
 O projeto ja conta com as informações de checkout separadas para serem enviadas para a API que irá processar a compra quando o usuário clica em "Ir para checkout".
-Além dessas, também foi criado testes unitários componentes utilizando o Jest, para que seja garantido a qualidade do código e experiência do usuário.
 
-# Configuração para rodar o projeto localmente:
+Os textos estão separados em um arquivo para facilitar a edição e adaptação para outras linguagens.
 
-## Setup inicial
+Além dessas, também foi criado testes unitários para componentes utilizando o Jest, para que seja garantido a qualidade do código e experiência do usuário.
+
+## Configuração para rodar o projeto localmente:
+
+### Setup inicial
 ```
 npm install
 ```
