@@ -1,0 +1,30 @@
+{
+  "views": {
+    "buy": {
+      "title": "Compras",
+      "description": "Faça a compra de seus adesivos!"
+    },
+    "about": {
+      "title": "Sobre",
+      "description": ""
+    }
+  },
+  "components": {
+    "BuySticker": {
+      "description": "Escolha os produtos e a quantidade.",
+      "add": "Adicionar",
+      "del": "Remover",
+      "itemArrayEmpty": "Nem um item adicionado. Adicione algum item na lista!",
+      "volume": "Volume:",
+      "currencySymbol": "R$",
+      "buyInfo": "Informações da sua compra",
+      "goToCheckout": "Ir para checkout",
+      "addSomeItem": "Adicione algum item em sua lista para continuar.",
+      "placeholderObs": "Insire os dados adicionais da sua compra, se houver. Faremos o possível para atende-lo!"
+    },
+    "Navbar": {
+      "buy": "Compras",
+      "about": "Sobre"
+    }
+  }
+}

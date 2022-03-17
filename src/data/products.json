@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "React",
+    "description": "Os mais famosos adesivos React estão aqui!",
+    "imgUrl": "https://i.imgur.com/k9Jbo8J.png",
+    "imgAlt": "Logo do React.",
+    "price": 5.99
+  },
+  {
+    "id": "2",
+    "name": "Vue",
+    "description": "Os melhores adesivos de Vue estão te esperando!",
+    "imgUrl": "https://i.imgur.com/Sw9ZSur.png",
+    "imgAlt": "Logo do Vue.",
+    "price": 6.99
+  },
+  {
+    "id": "3",
+    "name": "Angular",
+    "description": "Compre os atrativos adesivos de Angular aqui!",
+    "imgUrl": "https://i.imgur.com/rdafe5j.png",
+    "imgAlt": "Logo do Angular.",
+    "price": 7.95
+  }
+]
