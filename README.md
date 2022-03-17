@@ -54,7 +54,7 @@ Segue abaixo um exemplo de JSON contendo dois produtos:
 
 O projeto ja conta com as informações de checkout separadas para serem enviadas para a API que irá processar a compra quando o usuário clica em "Ir para checkout".
 
-Os textos estão separados em um arquivo para facilitar a edição e adaptação para outras linguagens.
+Os textos estão separados em um arquivo para facilitar a edição e adaptação para outras línguas.
 
 Além dessas, também foi criado testes unitários para componentes utilizando o Jest, para que seja garantido a qualidade do código e experiência do usuário.
 

@@ -91,7 +91,7 @@ export default {
 					<hr />
 					<Text>O projeto ja conta com as informações separadas para serem enviadas para a API que irá processar a compra quando o usuário clica em "Ir para checkout".</Text>
 					<hr />
-					<Text>Os textos estão separados em um arquivo para facilitar a edição e adaptação para outras linguagens.</Text>
+					<Text>Os textos estão separados em um arquivo para facilitar a edição e adaptação para outras línguas.</Text>
 					<hr />
 					<Text>Além dessas, também foi criado testes unitários para componentes utilizando o Jest, para que seja garantido a qualidade do código e experiência do usuário.</Text>
 				</div>
