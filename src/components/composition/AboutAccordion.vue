@@ -15,7 +15,7 @@ export default {
 		<div class="accordion-item">
 			<div type="h2" class="accordion-header">
 				<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#whatis">
-					<Text>Qual a origem deste projeto?</Text>
+					<Text>Qual a propósito desse projeto?</Text>
 				</button>
 			</div>
 			<div id="whatis" class="accordion-collapse collapse" data-bs-parent="#accordionAbout">
@@ -67,7 +67,7 @@ export default {
 				<div class="accordion-body">
 					<Text>As implementações técnicas foram as seguintes:</Text>
 					<hr />
-					<Text>A listagem dos produtos foi pensada para ser feita usando JSON. o que irá facilitar para popular a listagem de produtos por meio de uma API por exemplo.</Text>
+					<Text>A listagem dos produtos foi pensada para ser feita usando JSON. O que irá facilitar para popular a listagem de produtos por meio de uma API por exemplo.</Text>
 					<Text>Segue abaixo um exemplo de JSON contendo dois produtos:</Text>
 <pre><code>
 [
@@ -89,11 +89,11 @@ export default {
 	}
 ]</code></pre>
 					<hr />
-					<Text>O projeto ja conta com as informações separadas para serem enviadas para a API que irá processar a compra quando o usuário clica em "Ir para checkout".</Text>
+					<Text>O projeto já conta com as informações separadas para serem enviadas para a API que irá processar a compra quando o usuário clica em "Ir para checkout".</Text>
 					<hr />
 					<Text>Os textos estão separados em um arquivo para facilitar a edição e adaptação para outras línguas.</Text>
 					<hr />
-					<Text>Além dessas, também foi criado testes unitários para componentes utilizando o Jest, para que seja garantido a qualidade do código e experiência do usuário.</Text>
+					<Text>Além dessas, também foi criado testes unitários para componentes utilizando o Jest, para garantir a qualidade do código e experiência do usuário.</Text>
 				</div>
 			</div>
 		</div>
@@ -105,7 +105,7 @@ export default {
 			</div>
 			<div id="repo" class="accordion-collapse collapse" data-bs-parent="#accordionAbout">
 				<div class="accordion-body">
-					<Text>O repositório no Github do projeto se encontra aqui: <a href="https://github.com/vinicenter/bempaggo-compras">https://github.com/vinicenter/bempaggo-compras</a></Text>
+					<Text>O repositório no GitHub do projeto se encontra aqui: <a href="https://github.com/vinicenter/bempaggo-compras">https://github.com/vinicenter/bempaggo-compras</a></Text>
 				</div>
 			</div>
 		</div>

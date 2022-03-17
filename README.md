@@ -5,7 +5,7 @@ https://vini.center/bempaggo-compras
 
 ## Sobre o projeto
 
-### Qual a origem deste projeto?
+### Qual a propósito desse projeto?
 
 Este projeto foi desenvolvido para o Desafio de Desenvolvimento FrontEnd da BemPaggo! https://www.bempaggo.com.br/
 
@@ -28,7 +28,7 @@ Este projeto foi desenvolvido para o Desafio de Desenvolvimento FrontEnd da BemP
 
 ### Implementações técnicas do projeto
 
-A listagem dos produtos foi pensada para ser feita usando JSON. o que irá facilitar para popular a listagem de produtos por meio de uma API por exemplo.
+A listagem dos produtos foi pensada para ser feita usando JSON. O que irá facilitar para popular a listagem de produtos por meio de uma API por exemplo.
 Segue abaixo um exemplo de JSON contendo dois produtos:
 
 ```
@@ -52,11 +52,11 @@ Segue abaixo um exemplo de JSON contendo dois produtos:
 ]
 ```
 
-O projeto ja conta com as informações de checkout separadas para serem enviadas para a API que irá processar a compra quando o usuário clica em "Ir para checkout".
+O projeto já conta com as informações de checkout separadas para serem enviadas para a API que irá processar a compra quando o usuário clica em "Ir para checkout".
 
 Os textos estão separados em um arquivo para facilitar a edição e adaptação para outras línguas.
 
-Além dessas, também foi criado testes unitários para componentes utilizando o Jest, para que seja garantido a qualidade do código e experiência do usuário.
+Além dessas, também foi criado testes unitários para componentes utilizando o Jest, para garantir a qualidade do código e experiência do usuário.
 
 ## Configuração para rodar o projeto localmente:
 
