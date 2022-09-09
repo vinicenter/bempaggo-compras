@@ -1,8 +1,5 @@
 # bempaggo-compras
 
-### Veja o projeto ao vivo por meio deste link:
-https://vini.center/bempaggo-compras
-
 ## Sobre o projeto
 
 ### Qual a propósito desse projeto?
